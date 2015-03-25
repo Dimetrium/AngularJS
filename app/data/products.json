@@ -1,0 +1,50 @@
+[
+    {
+        "price": 499.99,
+        "id": 1,
+        "name": "Product Name One",
+        "description": "This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One. This is a full description Product One.",
+        "big_img": "app/img/main-product.png",
+        "small_img": "app/img/product.gif"
+    },
+    {
+        "price": 399.99,
+        "id": 2,
+        "name": "Product Name Two",
+        "description": "This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two. This is a full description Product Two.",
+        "big_img": "app/img/main-product.png",
+        "small_img": "app/img/product.gif"
+    },
+    {
+        "price": 299.99,
+        "id": 3,
+        "name": "Product Name Three",
+        "description": "This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre. This is a full description Product Thre.",
+        "big_img": "app/img/main-product.png",
+        "small_img": "app/img/product.gif"
+    },
+    {
+        "price": 199.99,
+        "id": 4,
+        "name": "Product Name Four",
+        "description": "This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four. This is a full description Product Four.",
+        "big_img": "app/img/main-product.png",
+        "small_img": "app/img/product.gif"
+    },
+    {
+        "price": 399.99,
+        "id": 5,
+        "name": "Product Name Five",
+        "description": "This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five. This is a full description Product Five.",
+        "big_img": "app/img/main-product.png",
+        "small_img": "app/img/product.gif"
+    },
+    {
+        "price": 699.99,
+        "id": 6,
+        "name": "Product Name Six",
+        "description": "This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six. This is a full description Product Six.",
+        "big_img": "app/img/main-product.png",
+        "small_img": "app/img/product.gif"
+    }
+]
